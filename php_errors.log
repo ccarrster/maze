@@ -1,0 +1,9 @@
+[26-Feb-2017 21:31:16 UTC] PHP Warning:  require_once(AppInfo.php): failed to open stream: No such file or directory in C:\Apache24\htdocs\maze\index.php on line 13
+[26-Feb-2017 21:31:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'AppInfo.php' (include_path='.;C:\php\pear') in C:\Apache24\htdocs\maze\index.php on line 13
+[26-Feb-2017 21:31:58 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 16
+[26-Feb-2017 21:36:48 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 510
+[26-Feb-2017 21:37:39 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 510
+[26-Feb-2017 21:37:41 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 510
+[26-Feb-2017 21:37:42 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 510
+[26-Feb-2017 21:37:46 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 510
+[26-Feb-2017 21:38:15 UTC] PHP Fatal error:  Class 'AppInfo' not found in C:\Apache24\htdocs\maze\index.php on line 510
